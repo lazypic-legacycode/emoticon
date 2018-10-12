@@ -6,3 +6,4 @@
 #### Reference
 - https://emoticonstudio.kakao.com
 - https://itunes.apple.com/kr/app/flipaclip-만화-애니메이션/id1101848914?mt=8
+- https://itunes.apple.com/kr/app/photoscape-x-%EC%82%AC%EC%A7%84-%ED%8E%B8%EC%A7%91%EA%B8%B0-%ED%8F%AC%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84/id929507092?mt=12
