@@ -5,3 +5,4 @@
 
 #### Reference
 - https://emoticonstudio.kakao.com
+- https://itunes.apple.com/kr/app/flipaclip-만화-애니메이션/id1101848914?mt=8
